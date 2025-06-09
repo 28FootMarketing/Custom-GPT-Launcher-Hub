@@ -31,3 +31,4 @@ if role in ["Coach", "Recruiter", "Business Owner"]:
         launch_gpt(gpts["Leadership GPT"], user)
 
 st.markdown("💡 *Tip: Review each GPT’s starter prompt before launching for best results.*")
+
